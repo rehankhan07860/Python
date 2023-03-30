@@ -1,0 +1,6 @@
+name = ["Rehan","Khan","Farhan","KhanDon","Siran","Akib"]
+number = [ 5,34,652,67,3667,54]
+name.sort()
+number.sort()
+print(name)
+print(number)

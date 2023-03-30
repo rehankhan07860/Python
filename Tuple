@@ -1,0 +1,2 @@
+tuple = ((3,45,64,6),("Rehan","khan"))
+print(tuple)

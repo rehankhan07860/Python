@@ -1,0 +1,2 @@
+Dict = {"Name" : "Rehan", "age": 20, "Qualification": "BCA"}
+print(Dict)

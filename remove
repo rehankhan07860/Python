@@ -1,0 +1,3 @@
+color = ["Red","Green","Black"]
+color.remove("Green")
+print(color)

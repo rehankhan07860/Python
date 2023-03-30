@@ -1,0 +1,2 @@
+list = [[3,4,6],[53,53,64],["Rehan", "khan"]]
+print(list)

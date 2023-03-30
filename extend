@@ -1,0 +1,4 @@
+name = ["Rehan","Khan","How","are","you"]
+details= {"Raghopur","Supaul","Bihar"}
+name.extend(details)
+print(name)

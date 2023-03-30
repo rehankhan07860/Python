@@ -1,0 +1,3 @@
+color = ["Rehan","Khan","Ezaz","Vishal"]
+color.clear()
+print(color)

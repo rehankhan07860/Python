@@ -1,2 +1,2 @@
-tuple = (3,5,345,54),('Rehan', 'khan', 'don')
-print(tuple)
+name = (3,46,234,3)
+print(name)

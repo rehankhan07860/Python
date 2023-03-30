@@ -1,4 +1,4 @@
-num1 = input("Enter first number: ")
-num2 = input("Enter second number: ")
-sum = num1 + num2
-print(sum)
+x = 30
+y = 50
+z = x - y
+print(z)

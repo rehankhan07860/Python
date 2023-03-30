@@ -1,2 +1,5 @@
-li = [3,45,646,575,45475,464]
-print(li.index(646))
+fruits = ["Mango", "banana", "Apple"]
+x, y, z = fruits
+print(x)
+print(y)
+print(z)
